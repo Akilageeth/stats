@@ -147,7 +147,7 @@
         x="160" 
         y="12.5" 
         data-testid="commits"
-      >2</text>
+      >1</text>
     </g>
   </g><g transform="translate(0, 24)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
